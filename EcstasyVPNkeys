@@ -1,3 +1,19 @@
-trojan://bm0iY9SlMscvad8zA7WS4g@66.23.200.82:443?path=%2F&security=none&host=telegram.org&type=ws#🇺🇸 US - @EcstasyVPN
-trojan://uKv89CqvDPkO9MYFat8UCw@185.120.139.99:443?path=%2F&security=none&host=telegram.org&type=ws#🇦🇪 ES - @EcstasyVPN
-trojan://Y_kLKiC_tKYeg1VcCtkCyQ@65.108.15.45:443?type=ws&security=none&path=/&host=telegram.org#🇫🇮 FI - @EcstasyVPN
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@65.108.66.21:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇫🇮 Finland
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@192.151.155.66:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇺🇸 USA
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@37.220.86.64:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇷🇺 Russia (YouTube без рекламы)
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@79.127.249.82:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇸🇪 Sweden
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@95.173.205.81:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇳🇴 Norway
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@2.56.125.35:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇵🇱 Poland
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@5.182.36.146:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇨🇭 Switzerland
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@94.131.123.126:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇹🇷 Turkey
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@91.242.229.139:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇳🇱 Netherlands
+
+vless://412475f6-a185-47d4-8cfc-8784fe9f8bf7@92.118.230.231:8443?security=reality&sni=m.vk.com&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&flow=xtls-rprx-vision&encryption=none#EcstasyVPN 🇩🇪 Germany
