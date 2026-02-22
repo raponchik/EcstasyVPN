@@ -59,3 +59,5 @@ vless://ccdc770d-856f-495f-9492-eaa6ce8b7642@nl.wireguardvpnbotik.com:443?securi
 vless://ccdc770d-856f-495f-9492-eaa6ce8b7642@185.241.195.144:443?security=reality&encryption=none&pbk=HFJMqU64bwcPSJ4E0sRshfVNjweeQxvAgRP_5OOxqHE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=048beb293406db13#VK%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%F0%9F%8F%B3%EF%B8%8F%20EcstasyVPN%20%28%40rap_ex%29
 
 vless://ccdc770d-856f-495f-9492-eaa6ce8b7642@89.208.209.205:443?security=reality&encryption=none&pbk=HFJMqU64bwcPSJ4E0sRshfVNjweeQxvAgRP_5OOxqHE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=048beb293406db13#VK2%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%F0%9F%8F%B3%EF%B8%8F%20EcstasyVPN%20%28%40rap_ex%29
+
+vless://c9355a0e0397@raff-vpn-kz-server1.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=e82a09e365ea&packetEncoding=xudp#%F0%9F%87%B0%F0%9F%87%BF%20%E2%8F%B3%20EcstasyVPN%20%28%40rap_ex%29
